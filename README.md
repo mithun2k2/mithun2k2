@@ -15,7 +15,7 @@
 </div>
 ---
 
-### 🕵️‍♂️_technologist: About Me :
+### 🕵️‍♂️: About Me :
 I am a Software Engineering professional with hands on experience in Python, SQL, mySAQL, java including OOP<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from UK
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
