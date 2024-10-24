@@ -23,7 +23,7 @@ I am a Software Engineering professional with hands on experience in Python, SQL
 
 - :zap: In my free time, I solve problems on codewars and passion about read tech articles.
 
-- :mailbox:How to reach out to me[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/mahmudul-hassan-9725226a/
+- :mailbox:How to reach out to me![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/mahmudul-hassan-9725226a/
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
